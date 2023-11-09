@@ -1,2 +1,2 @@
 # galeria_digital
-galería de ropas hechas en php, css
+galería de productos hechas en vue y boostrap
